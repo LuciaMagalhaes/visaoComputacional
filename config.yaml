@@ -1,0 +1,12 @@
+path: F:/Lucia/VisaoComputacional/trabalho_pratico/dataset
+train: train/images
+val: val/images
+test: test/images
+
+# Nome das suas classes
+names:
+  0: Pistola
+  1: Fuzil
+
+
+  
