@@ -24,11 +24,12 @@ Desenvolver um modelo de detecção de objetos capaz de identificar automaticame
 ## ⚙️ Estrutura do Projeto
 
 ```
-├── data/
+├── dataset/
+├── images/
+├── output/
 ├── runs/
 ├── video/
-├── output/
-├── scripts/
+
 └── README.md
 ```
 
